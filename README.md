@@ -21,6 +21,7 @@ Now I'm working in my college, helping in online events to talk about Coronaviru
 <code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
+<code><img height="30" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg"></code>
 <br>
 
 <h4></b>Tools</b></h4> 
