@@ -22,12 +22,13 @@ Now I'm working in my college, helping in online events to talk about Coronaviru
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
 <code><img height="30" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg"></code>
-<code><img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png"></code>
 <br>
 
 <h4></b>Tools</b></h4> 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 <code><img height="35" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png"></code>
+
 
 
 
