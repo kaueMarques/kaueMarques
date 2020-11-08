@@ -4,6 +4,8 @@
 [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
 [![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
 
+<hr>
+
 <img align="right" width="450px" alt="GIF" src="https://64.media.tumblr.com/a109875c6281839b8d84873373be8fcd/tumblr_mx8rz8f0ZX1qzh636o9_500.gif"/>
 <br>
 
