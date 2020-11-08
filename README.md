@@ -4,7 +4,6 @@
 [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
 [![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
 
-<hr>
 
 <img align="right" width="450px" alt="GIF" src="https://64.media.tumblr.com/a109875c6281839b8d84873373be8fcd/tumblr_mx8rz8f0ZX1qzh636o9_500.gif"/>
 <br>
@@ -18,7 +17,7 @@ Now I'm working in my college, helping in online events to talk about Coronaviru
   In this moments, i'm searching for DevOps technologys.
 </p>
 
-
+<hr>
 <h4></b>Languages</b></h4>  
 <code><img height="30" src="https://www.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
@@ -26,6 +25,7 @@ Now I'm working in my college, helping in online events to talk about Coronaviru
 <code><img height="30" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg"></code>
 <br>
 
+<hr>
 <h4></b>Tools</b></h4> 
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 <code><img height="35" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
