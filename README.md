@@ -23,10 +23,10 @@ Hello! My name is Kauê. I'm student of System Analysis<br>
 <br>
 
 <h4></b>Tools</b></h4> 
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
-<code><img height="35" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png"></code>
-
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
+<img height="35" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png">
+<img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png">
+<img height="30" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png">
 
 
 
