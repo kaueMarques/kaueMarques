@@ -1,6 +1,9 @@
 <h1 align="center"><img src="./hi.gif" width="30px">Hello my name is Kauê!</h1>
-<hr/>
-
+<p align="center">
+  <i>“There is a reason why all things are as they are.”</i>
+  <br/>
+  <b>Bram Stoker, Dracula<b/>
+</p>
 
 [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
 [![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
