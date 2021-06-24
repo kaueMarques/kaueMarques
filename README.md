@@ -1,4 +1,4 @@
-<h1 stryle="text-align: center;"><img src="./hi.gif" width="30px">Hello my name is Kauê!</h1>
+<h1 align="center"><img src="./hi.gif" width="30px">Hello my name is Kauê!</h1>
 
 
 [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
