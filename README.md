@@ -1,13 +1,10 @@
 <h1 align="center"><img src="./hi.gif" width="30px">Hello my name is Kauê!</h1>
+
 <p align="center">
   <i>“There is a reason why all things are as they are.”</i>
   <br/>
   <b>Bram Stoker, Dracula<b/>
 </p>
-
-[![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
-[![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
-
 
 <img align="right" width="450px" alt="GIF" src="https://64.media.tumblr.com/a109875c6281839b8d84873373be8fcd/tumblr_mx8rz8f0ZX1qzh636o9_500.gif"/>
 <br>
@@ -32,7 +29,8 @@ Hello! My name is Kauê. I'm student of System Analysis<br>
 <code><img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png"></code>
 <code><img height="30" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png"></code>
 
-
+[![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
+[![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
 
 
 <img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=kaueMarques&show_icons=true&theme=darcula"/>
