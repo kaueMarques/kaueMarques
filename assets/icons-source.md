@@ -1,4 +1,4 @@
-<h1>Icons source</h1>
+<h1>Icons sources</h1>
 
 <ul>
     <li><a href="https://emojipedia.org/">Emojipedia</a></li>
