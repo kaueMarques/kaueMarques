@@ -17,7 +17,7 @@ Hello! My name is Kauê. I'm student of System Analysis
 <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/books_1f4da.png"/>
   In this moments, i'm searching for DevOps technologys.
   <br/>
-  <img width="20" src="./assets/backpack.png/>
+  <img width="20" src="./assets/backpack.png/">
    Working  in Ubatuba's City Hall, IT Department
 </p>
 
