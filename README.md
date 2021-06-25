@@ -22,9 +22,9 @@ Hello! My name is Kauê. I'm student of System Analysis
 </p>
 
 <h4><b>Languages</b></h4>  
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png></code>
-<code><img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png"></code>
+<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+<code><img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"></code>
+<code><img height="30" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg"></code>
 <br>
 
 <h4><b>Tools</b></h4> 
