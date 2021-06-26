@@ -18,7 +18,7 @@ Hello! My name is Kauê. I'm student of System Analysis.
   In this moments, I'm searching for DevOps technologys.
   <br/>
   <img width="20" src="./assets/backpack.png/">
-   Working  in Ubatuba's City Hall, IT Department.
+   Intern in Ubatuba's City Hall, IT Department.
 </p>
 
 <h4><b>Languages</b></h4>  
