@@ -26,8 +26,26 @@ Hello! My name is Kauê. I'm student of System Analysis.
 <img height="38" src="./assets/imgs/icons/python.png" alt="python">
 <img height="45" src="./assets/imgs/icons/java.png" alt="java">
 <img height="35" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg" alt="bash">
-<br>
+<br><br>
 </div>  
+
+  
+ <details>
+  <summary>Databases</summary>
+   
+   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  
+  </details>
+  
+  <details>
+  <summary>Frameworks</summary>
+   
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  
+  </details>
 
 <div align="left">
 <h4><b>Tools</b></h4> 
@@ -49,4 +67,3 @@ Hello! My name is Kauê. I'm student of System Analysis.
 </div>  
 
 <img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=kaueMarques&show_icons=true&theme=darcula"/>
-
