@@ -24,7 +24,7 @@ Hello! My name is Kauê. I'm student of System Analysis.
 <div align="left">
 <h4><b>Languages</b></h4>  
 <img height="38" src="./assets/imgs/icons/python.png" alt="python">
-<img height="40" src="./assets/imgs/icons/java.png" alt="java">
+<img height="45" src="./assets/imgs/icons/java.png" alt="java">
 <img height="35" src="https://icon-library.com/images/bash-icon/bash-icon-21.jpg" alt="bash">
 <br>
 </div>  
