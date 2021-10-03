@@ -67,4 +67,3 @@ Hello! My name is Kauê. I'm student of System Analysis.
 <br>
 </div>  
 
-<img align="right" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=kaueMarques&show_icons=true&theme=darcula"/>
