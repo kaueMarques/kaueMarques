@@ -62,7 +62,7 @@
    <table>
       <tr align="center">
          <th>Badge</th>
-         <th>Name</th>
+         <th>Certification Name</th>
          <th>Short Description</th>
          <th>Verification Link</th>
       </tr>
