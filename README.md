@@ -46,7 +46,6 @@
    <img height="35" src="https://kauemarques.github.io/readme-assets/imgs/linux.png" alt="Linux Tux">
    <img height="35" src="https://kauemarques.github.io/readme-assets/imgs/docker.png" = alt="docker">
    <img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws">
-   <img height="30" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png">
    <br>
 </div>
 <div align="left">
