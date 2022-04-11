@@ -69,7 +69,7 @@
       <tr>
          <td aling="center"><img width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
          <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
-          <td>Cloud Native Services</td>
+          <td>Discuss Core OCI Services And Cloud Native Services</td>
          <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4">
             <img src="https://cdn-icons-png.flaticon.com/512/1674/1674969.png" aling="center" width="50"></a>
          </td>
