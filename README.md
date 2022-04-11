@@ -67,7 +67,7 @@
          <th>Verification Link</th>
       </tr>
       <tr>
-         <td aling="center"><img width="250" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
+         <td aling="center"><img width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
          <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
           <td>All about Cloud Native</td>
          <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4">
