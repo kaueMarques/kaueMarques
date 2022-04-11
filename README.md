@@ -57,10 +57,10 @@
    
    <br>
 </div>
-<div align="left">
+<div class="certifications">
    <h4><b>Cetifications</b></h4>
    <table>
-      <tr>
+      <tr align="center">
          <th>Badge</th>
          <th>Name</th>
          <th>Verification Link</th>
