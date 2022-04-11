@@ -63,7 +63,7 @@
       <tr align="center">
          <th>Badge</th>
          <th>Name</th>
-         <th>Description</th>
+         <th>Short Description</th>
          <th>Verification Link</th>
       </tr>
       <tr>
