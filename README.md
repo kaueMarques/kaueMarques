@@ -42,10 +42,11 @@
   
 </details>
 <div align="left">
-   <h4><b>Tools</b></h4>
+   <h4><b>Tools Kits</b></h4>
    <img height="35" src="https://kauemarques.github.io/readme-assets/imgs/linux.png" alt="Linux Tux">
    <img height="35" src="https://kauemarques.github.io/readme-assets/imgs/docker.png" = alt="docker">
    <img height="30" src="https://img.icons8.com/color/452/amazon-web-services.png" alt="aws">
+   <img height="30" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle">
    <br>
 </div>
 <div align="left">
