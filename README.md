@@ -29,17 +29,15 @@
 </div>
 <details>
    <summary>Databases</summary>
-  
    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 </details>
 <details>
    <summary>Frameworks</summary>
-  
+   
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  
+   
 </details>
 <div align="left">
    <h4><b>Tools Kits</b></h4>
@@ -51,29 +49,27 @@
 </div>
 <div align="left">
    <h4><b>Contact</b></h4>
-  
+   
    [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
    [![Twitter: @mrMarquesB](https://img.shields.io/badge/-@mrMarquesB-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mrMarquesB)](https://twitter.com/mrMarquesB)
-  
+   
    <br>
 </div>
 <div align="left">
    <h4><b>Cetifications</b></h4>
-  
-<table>
-  <tr>
-    <th>Badge</th>
-    <th>Name</th>
-    <th>Verification Link</th>
-  </tr>
-  <tr>
-    <td aling="center"><img width="225" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
-    <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
-    <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4">
-      <img src="https://cdn-icons-png.flaticon.com/512/1674/1674969.png" aling="center" width="50"></a></td>
-  </tr>
-
-</table>
-  
+   <table>
+      <tr>
+         <th>Badge</th>
+         <th>Name</th>
+         <th>Verification Link</th>
+      </tr>
+      <tr>
+         <td aling="center"><img width="225" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
+         <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
+         <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4">
+            <img src="https://cdn-icons-png.flaticon.com/512/1674/1674969.png" aling="center" width="50"></a>
+         </td>
+      </tr>
+   </table>
    <br>
 </div>
