@@ -29,8 +29,10 @@
 </div>
 <details>
    <summary>Databases</summary>
+   
    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 </details>
 <details>
    <summary>Frameworks</summary>
