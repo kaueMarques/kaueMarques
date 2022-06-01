@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./hi.gif" width="30px">Hello my name is Kauê!</h1>
+<h1 align="center"><img src="./hi.gif" height="30"width="30px">Hello my name is Kauê!</h1>
 <p align="center">
    <i>“There is a reason why all things are as they are.”</i>
    <br/>
