@@ -17,7 +17,7 @@
       In this moments, I'm searching for DevOps technologys.
       <br/>
       <img width="20" src="https://kauemarques.github.io/readme-assets/imgs/backpack.png">
-      Intern in Ubatuba's City Hall, IT Department.
+      Developer Java in Meta. Work with a Big Tech Team of the best channel of Brazil.
    </p>
 </div>
 <div align="left">
