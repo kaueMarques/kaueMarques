@@ -17,7 +17,7 @@
       In this moments, I'm searching for DevSecOps technologys.
       <br/>
       <img width="20" src="https://kauemarques.github.io/readme-assets/imgs/backpack.png">
-      Java Develkoper Jr in Meta. Work with a Big Tech Team of the best channel of Brazil.
+      Java Developer Jr in Meta. Work with a Big Tech Team of the best channel of Brazil.
    </p>
 </div>
 <div align="left">
