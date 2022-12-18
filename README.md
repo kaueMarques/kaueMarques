@@ -14,7 +14,7 @@
       Hello! My name is Kauê. I'm student of System Analysis.
       <br/>
       <img width="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/books_1f4da.png"/>
-      In this moments, I'm searching for DevOps technologys.
+      In this moments, I'm searching for DevSecOps technologys.
       <br/>
       <img width="20" src="https://kauemarques.github.io/readme-assets/imgs/backpack.png">
       Java Develkoper Jr in Meta. Work with a Big Tech Team of the best channel of Brazil.
