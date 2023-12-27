@@ -54,7 +54,7 @@
 </div>
 
 <div class="certifications">
-   <h4><b>As certificações que obitive:</b></h4>
+   <h4><b>As certificações que obtive:</b></h4>
    <table>
       <tr align="center">
          <th>Badge</th>
