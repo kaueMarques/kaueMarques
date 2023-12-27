@@ -8,7 +8,9 @@
 
 <div align="center">
 
-   [![Linkedin: kaueMarques](https://img.shields.io/badge/-kaueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauemb/)](https://www.linkedin.com/in/kauemb/)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauemb/)
+   [![CNPq Lattes](https://img.shields.io/badge/CNPq-Lattes-blue?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6948708603422993)
+
 </div>
 
 <br/>
@@ -32,10 +34,23 @@
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
 </div>
 
-<br>
+<br><br>
 
-<div align="left">
-Durante a vida profissional, já tive experiência com as seguintes tecnologias listadas abaixo:
+<div class="publicação">
+   <h4><b>Publicações em congressos</b></h4>
+   <table>
+      <tr align="center">
+         <th>Congresso</th>
+         <th>Titulo do trabalho</th>
+         <th>aplicação pratica</th>
+      </tr>
+      <tr>
+         <td>CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP</td>
+         <td><a href="https://ocs.ifsp.edu.br/conict/xivconict/paper/view/9464" target="_blank">OTIMIZAÇÃO DA MANUTENÇÃO EM SISTEMAS LEGADOS: CASO DE ESTUDO DO ORACLE WEBLOGIC 11G</a>
+</td>
+         <td>Rapida identificação de erros nem alguns servidores descentalizados de grande porte</td>
+      </tr>
+   </table>
 </div>
 
 <div class="certifications">
