@@ -48,7 +48,7 @@
          <td>CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP</td>
          <td><a href="https://ocs.ifsp.edu.br/conict/xivconict/paper/view/9464" target="_blank">OTIMIZAÇÃO DA MANUTENÇÃO EM SISTEMAS LEGADOS: CASO DE ESTUDO DO ORACLE WEBLOGIC 11G</a>
 </td>
-         <td>Rapida identificação de erros nem alguns servidores descentalizados de grande porte</td>
+         <td>Rapida identificação de erros em alguns servidores descentalizados de grande porte</td>
       </tr>
    </table>
 </div>
