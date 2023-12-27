@@ -111,6 +111,7 @@
    
   ![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![Payara Server](https://img.shields.io/badge/Payara_Server-333F48?style=for-the-badge&logo=payara&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 </details>
@@ -126,7 +127,8 @@
    <summary><b>ITSM / Scrum</b></summary>
    
    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+   ![ServiceNow](https://img.shields.io/badge/ServiceNow-00BEE8?style=for-the-badge&logo=servicenow&logoColor=white)
 
    
 </details>
