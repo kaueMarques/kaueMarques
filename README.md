@@ -74,7 +74,7 @@
 <div>
 <span><b>Algumas das tecnologias que já manipulei profissionalmente são:</b></span></span>
 <div>
-
+<br>
 <div align="left">   
    <details>
    <summary><b>Bancos de Dados</b></summary>
