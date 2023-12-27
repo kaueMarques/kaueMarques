@@ -72,7 +72,7 @@
 
 
 <div>
-<span><b>Algumas das tecnologias que já manipulei profissionalmente são:</b></span>b></span>
+<span><b>Algumas das tecnologias que já manipulei profissionalmente são:</b></span></span>
 <div>
 
 <div align="left">   
