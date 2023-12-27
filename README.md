@@ -1,4 +1,3 @@
-<!-- Seu Nome -->
 <h1 align="center"><img src="./hi.gif" height="30" width="30px"> Olá, eu sou Kauê Marques!</h1>
 <p align="center">
    <i>“There is a reason why all things are as they are.”</i><br/>
@@ -38,6 +37,28 @@
 <div align="left">
 Durante a vida profissional, já tive experiência com as seguintes tecnologias listadas abaixo:
 </div>
+
+<div class="certifications">
+   <h4><b>As certificações que obitive:</b></h4>
+   <table>
+      <tr align="center">
+         <th>Badge</th>
+         <th>Nome da Certificação</th>
+         <th>Descrição Resumida</th>
+      </tr>
+      <tr>
+         <td align="center"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
+         <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
+         <td>Discute os Serviços Core OCI e Serviços Nativos da Nuvem</td>
+      </tr>
+   </table>
+   <br>
+</div>
+
+
+<div>
+<span>Algumas das tecnologias que já manipulei profissionalmente são:</span>
+<div>
 
 <div align="left">   
    <details>
@@ -98,20 +119,4 @@ Durante a vida profissional, já tive experiência com as seguintes tecnologias 
 </div>
 
 
-<div class="certifications">
-   <h4><b>As certificações que tenho são:</b></h4>
-   <table>
-      <tr align="center">
-         <th>Badge</th>
-         <th>Nome da Certificação</th>
-         <th>Descrição Resumida</th>
-      </tr>
-      <tr>
-         <td align="center"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
-         <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
-         <td>Discute os Serviços Core OCI e Serviços Nativos da Nuvem</td>
-      </tr>
-   </table>
-   <br>
-</div>
 
