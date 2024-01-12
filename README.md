@@ -121,6 +121,7 @@
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
+   [![Java EE](https://img.shields.io/badge/Java_EE-8EB814.svg?style=for-the-badge&logo=coffeescript&logoColor=white&color=8A2BE2)](https://www.oracle.com/java/ee/)
    
 </details>
 <details>
