@@ -9,6 +9,7 @@
 <div align="center">
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauemb/)
+   [![GitLab](https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/kaueMarques)
    [![CNPq Lattes](https://img.shields.io/badge/CNPq-Lattes-blue?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6948708603422993)
 
 </div>
