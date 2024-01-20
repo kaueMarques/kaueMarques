@@ -16,7 +16,7 @@
 
 <br/>
 <div align="right" >
-   <img align="left" width="450px" alt="GIF" src="./assets/computer.gif"/>
+   <img align="left" width="450px" alt="GIF" src="./assets/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 </div>
 
 
