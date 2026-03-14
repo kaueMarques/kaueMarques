@@ -99,6 +99,13 @@
          <li>Designed robust storage systems and specialized management systems.</li>
       </ul>
    </details>
+   <details>
+      <summary><b>City Hall (Municipality) - Information Technology Sector</b></summary>
+      <ul>
+         <li>Worked on the support and maintenance of technology infrastructure and governmental systems.</li>
+         <li>Assisted in the digitalization of processes and provided technical support for public sector demands.</li>
+      </ul>
+   </details>
 </div>
 
 <br><br>
