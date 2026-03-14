@@ -29,13 +29,68 @@
       Olá! Meu nome é Kauê. Sou <b>Engenheiro de Software</b> no Itaú Unibanco.
      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
-      Especialista no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang, Python e AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
+      Atuo no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang, Python e AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
    </span>
 </div>
 <div align="left" style="margin-left: 65%">
-   <h4><b>Linguagens de Programação que destaco, pois essas são minhas bases e nelas posso construir tudo</b></h4>
+   <h4><b>Principais Linguagens de Programação</b></h4>
    <img height="35" src="./assets/java.png" alt="java">
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
+</div>
+
+<br><br>
+
+<div class="competencias" align="left" style="margin-left: 65%">
+   <h4><b>Principais Competências</b></h4>
+   <ul>
+      <li><b>Linguagens e Frameworks:</b> Java (Spring Boot), Go Lang, Python (Flask).</li>
+      <li><b>Nuvem e Infraestrutura:</b> AWS (SQS, SNS, DynamoDB, ECS), Oracle Cloud (OCI), Google Cloud, Kubernetes, Docker.</li>
+      <li><b>CI/CD e Ferramentas:</b> Jenkins, GitHub Actions, Jira, Shell Script.</li>
+      <li><b>Arquitetura:</b> Princípios SOLID, Arquitetura Hexagonal e Data Mesh.</li>
+   </ul>
+</div>
+
+<br>
+
+<div class="experiencia" align="left" style="margin-left: 65%">
+   <h4><b>Experiência Profissional</b></h4>
+   <details>
+      <summary><b>Itaú Unibanco - Software Engineer</b></summary>
+      <ul>
+         <li>Colaboração com multinacionais no desenvolvimento de ferramentas para a implementação da solução PIX.</li>
+         <li>Utilização de Java, Python e arquiteturas AWS em conformidade com as normas do Banco Central.</li>
+         <li>Desenvolvimento de ferramentas proprietárias dentro do sistema MCP (Model Context Protocol) na plataforma de IA do banco.</li>
+         <li>Construção de sistemas que utilizam análises automáticas e integração sistêmica de IA, incluindo o uso de modelos de linguagem personalizados (CLMs).</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>IBM - Java Software Developer</b></summary>
+      <ul>
+         <li>Atuação em projeto para banco multinacional no desenvolvimento de sistemas de alto desempenho para processamento de PIX, boletos e cartões de crédito.</li>
+         <li>Participação em migrações para a nuvem, visando escalabilidade, segurança e resiliência.</li>
+         <li>Mentoria técnica e realização de onboardings técnicos focados nas melhores práticas da indústria.</li>
+         <li>Aplicação de práticas de arquitetura como SOLID e Arquitetura Hexagonal.</li>
+         <li>Integração de soluções de IA e dados utilizando IBM WatsonX AI e IBM Infosphere Data Architecture.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Globo - Java Software Engineer</b></summary>
+      <ul>
+         <li>Identificação e resolução de falhas em sistemas legados e bancos de dados.</li>
+         <li>Migração de sistemas legados para a nuvem (Google Cloud).</li>
+         <li>Automação de processos manuais e rotinas de usuários para otimizar operações e transferências de arquivos.</li>
+         <li>Utilização de Java, WebLogic, SpringBoot e OracleDB para gestão robusta de dados e aplicações.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Marques Kauê Classic Software - Software Engineer</b></summary>
+      <ul>
+         <li>Liderança e gestão de projetos como consultor de software para diversos clientes.</li>
+         <li>Desenvolvimento e manutenção de infraestrutura crítica em empresa de telecomunicações (ISP).</li>
+         <li>Implementação de melhorias e otimizações em soluções de software ERP.</li>
+         <li>Projeto de sistemas de armazenamento robustos e sistemas de gestão especializados.</li>
+      </ul>
+   </details>
 </div>
 
 <br><br>

@@ -29,13 +29,68 @@
       Hello! My name is Kauê. I am a <b>Software Engineer</b> at Itaú Unibanco.
      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
-      Specialist in developing scalable solutions in financial and media systems using <b>Java (Spring), Go Lang, Python, and AWS</b>. I have expertise in messaging, NoSQL databases, Kubernetes, and the integration of systemic Artificial Intelligence.
+      I develop scalable solutions in financial and media systems using <b>Java (Spring), Go Lang, Python, and AWS</b>. I have expertise in messaging, NoSQL databases, Kubernetes, and the integration of systemic Artificial Intelligence.
    </span>
 </div>
 <div align="left" style="margin-left: 65%">
-   <h4><b>Programming Languages I highlight, as they are my foundations and upon them I can build anything</b></h4>
+   <h4><b>Core Programming Languages</b></h4>
    <img height="35" src="./assets/java.png" alt="java">
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
+</div>
+
+<br><br>
+
+<div class="competencias" align="left" style="margin-left: 65%">
+   <h4><b>Key Competencies</b></h4>
+   <ul>
+      <li><b>Languages & Frameworks:</b> Java (Spring Boot), Go Lang, Python (Flask).</li>
+      <li><b>Cloud & Infrastructure:</b> AWS (SQS, SNS, DynamoDB, ECS), Oracle Cloud (OCI), Google Cloud, Kubernetes, Docker.</li>
+      <li><b>CI/CD & Tools:</b> Jenkins, GitHub Actions, Jira, Shell Script.</li>
+      <li><b>Architecture:</b> SOLID Principles, Hexagonal Architecture, and Data Mesh.</li>
+   </ul>
+</div>
+
+<br>
+
+<div class="experiencia" align="left" style="margin-left: 65%">
+   <h4><b>Professional Experience</b></h4>
+   <details>
+      <summary><b>Itaú Unibanco - Software Engineer</b></summary>
+      <ul>
+         <li>Collaborated with multinationals in developing tools for the implementation of the PIX solution.</li>
+         <li>Utilized Java, Python, and AWS architectures in compliance with Central Bank regulations.</li>
+         <li>Developed proprietary tools within the MCP (Model Context Protocol) system on the bank's AI platform.</li>
+         <li>Built systems utilizing automatic analysis and systemic AI integration, including the use of customized language models (CLMs).</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>IBM - Java Software Developer</b></summary>
+      <ul>
+         <li>Worked on a project for a multinational bank, developing high-performance systems for processing PIX, bank slips, and credit cards.</li>
+         <li>Participated in cloud migrations aiming at scalability, security, and resilience.</li>
+         <li>Provided technical mentoring and conducted technical onboardings focused on industry best practices.</li>
+         <li>Applied architectural practices such as SOLID and Hexagonal Architecture.</li>
+         <li>Integrated AI and data solutions using IBM WatsonX AI and IBM Infosphere Data Architecture.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Globo - Java Software Engineer</b></summary>
+      <ul>
+         <li>Identified and resolved flaws in legacy systems and databases.</li>
+         <li>Migrated legacy systems to the cloud (Google Cloud).</li>
+         <li>Automated manual processes and user routines to optimize operations and file transfers.</li>
+         <li>Utilized Java, WebLogic, SpringBoot, and OracleDB for robust data and application management.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Marques Kauê Classic Software - Software Engineer</b></summary>
+      <ul>
+         <li>Led and managed projects as a software consultant for diverse clients.</li>
+         <li>Contributed to the development and maintenance of critical infrastructure in a telecommunications company (ISP).</li>
+         <li>Implemented improvements and optimizations in ERP software solutions.</li>
+         <li>Designed robust storage systems and specialized management systems.</li>
+      </ul>
+   </details>
 </div>
 
 <br><br>
