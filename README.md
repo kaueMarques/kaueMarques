@@ -99,6 +99,13 @@
          <li>Projeto de sistemas de armazenamento robustos e sistemas de gestão especializados.</li>
       </ul>
    </details>
+   <details>
+      <summary><b>Prefeitura Municipal - Setor de Tecnologia da Informação</b></summary>
+      <ul>
+         <li>Atuação no suporte e manutenção da infraestrutura de tecnologia e sistemas governamentais.</li>
+         <li>Apoio na digitalização de processos e atendimento técnico às demandas do setor público.</li>
+      </ul>
+   </details>
 </div>
 
 <br><br>
