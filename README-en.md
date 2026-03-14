@@ -56,6 +56,13 @@
 <div class="experiencia" align="left" style="margin-left: 65%">
    <h4><b>Professional Experience</b></h4>
    <details>
+      <summary><b>Santander - Software Engineer</b></summary>
+      <ul>
+         <li>Development and modernization of high-performance payment systems.</li>
+         <li>Worked on modernizing critical payment architectures to ensure transaction scalability and resilience.</li>
+      </ul>
+   </details>
+   <details>
       <summary><b>Itaú Unibanco - Software Engineer</b></summary>
       <ul>
          <li>Collaborated with multinationals in developing tools for the implementation of the PIX solution.</li>
