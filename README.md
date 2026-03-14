@@ -163,7 +163,17 @@
    <details>
    <summary><b>Cloud</b></summary>
    <ul>
-      <li>AWS (SQS, SNS, ECS)</li>
+      <li><b>AWS (Foco em Foundation e Developer):</b>
+         <ul>
+            <li><b>Computação:</b> EC2, Lambda, ECS, Fargate, Elastic Beanstalk</li>
+            <li><b>Armazenamento:</b> S3, EBS, EFS</li>
+            <li><b>Bancos de Dados:</b> DynamoDB, RDS, ElastiCache</li>
+            <li><b>Redes e Entrega de Conteúdo:</b> VPC, Route 53, CloudFront, API Gateway</li>
+            <li><b>Segurança e Identidade:</b> IAM, Cognito, KMS</li>
+            <li><b>Integração e Mensageria:</b> SQS, SNS, EventBridge, Step Functions</li>
+            <li><b>Monitoramento e Ferramentas de Desenvolvedor:</b> CloudWatch, CloudTrail, X-Ray, CodeBuild, CodeDeploy, CodePipeline</li>
+         </ul>
+      </li>
       <li>Google Cloud</li>
       <li>Oracle Cloud (OCI)</li>
    </ul>
