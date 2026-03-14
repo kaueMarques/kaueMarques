@@ -162,6 +162,7 @@
    <summary><b>Bancos de Dados</b></summary>
    <ul>
       <li>MariaDB</li>
+      <li>PostgreSQL</li>
       <li>Microsoft SQL Server</li>
       <li>Oracle Database</li>
       <li>DynamoDB (NoSQL)</li>
