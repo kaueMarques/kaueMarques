@@ -29,12 +29,13 @@
       Hello! My name is Kauê. I am a <b>Software Engineer</b> at Itaú Unibanco.
      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
-      I develop scalable solutions in financial and media systems using <b>Java (Spring), Go Lang, Python, and AWS</b>. I have expertise in messaging, NoSQL databases, Kubernetes, and the integration of systemic Artificial Intelligence.
+      I develop scalable solutions in financial and media systems using <b>Java (Spring), Go Lang, and Python</b>, with a strong focus on <b>AWS Cloud</b> architectures. I have expertise in messaging, NoSQL databases, Kubernetes, and the integration of systemic Artificial Intelligence.
    </span>
 </div>
 <div align="left" style="margin-left: 65%">
    <h4><b>Core Programming Languages</b></h4>
    <img height="35" src="./assets/java.png" alt="java">
+   <img height="35" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go">
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
 </div>
 
@@ -146,66 +147,62 @@
 
 
 <div>
-<span><b>Some of the technologies I have professionally managed include:</b></span></span>
+<span><b>Technologies I master:</b></span>
 <div>
 <br>
 <div align="left">
    <details>
    <summary><b>Databases</b></summary>
-
-   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-   ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-</details>
-<details>
+   <ul>
+      <li>MariaDB</li>
+      <li>Microsoft SQL Server</li>
+      <li>Oracle Database</li>
+      <li>DynamoDB (NoSQL)</li>
+   </ul>
+   </details>
+   <details>
    <summary><b>Cloud</b></summary>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-</details>
-<details>
-   <summary><b>DevOps</b></summary>
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-008000?style=for-the-badge)
-![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4B0082?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-</details>
-<details>
-   <summary><b>Infrastructure</b></summary>
-
-  ![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Payara Server](https://img.shields.io/badge/Payara_Server-333F48?style=for-the-badge&logo=payara&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-</details>
-<details>
+   <ul>
+      <li>AWS (SQS, SNS, ECS)</li>
+      <li>Google Cloud</li>
+      <li>Oracle Cloud (OCI)</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>DevOps & Messaging</b></summary>
+   <ul>
+      <li>Apache Kafka</li>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+      <li>Rancher</li>
+      <li>Shell Scripting</li>
+      <li>GitHub Actions / Jenkins</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>Infrastructure & AI</b></summary>
+   <ul>
+      <li>WebLogic</li>
+      <li>Payara Server</li>
+      <li>GitLab</li>
+      <li>Systemic Artificial Intelligence Integration (LLMs, CLMs, IBM WatsonX AI)</li>
+   </ul>
+   </details>
+   <details>
    <summary><b>Frameworks</b></summary>
-
-   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-   ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
-   [![Java EE](https://img.shields.io/badge/Java_EE-8EB814.svg?style=for-the-badge&logo=coffeescript&logoColor=white&color=8A2BE2)](https://www.oracle.com/java/ee/)
-
-</details>
-<details>
-   <summary><b>ITSM / Scrum</b></summary>
-
-   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-   ![ServiceNow](https://img.shields.io/badge/ServiceNow-00BEE8?style=for-the-badge&logo=servicenow&logoColor=white)
-
-
-</details>
-
+   <ul>
+      <li>Spring Boot</li>
+      <li>Flask</li>
+      <li>Jakarta EE / Java EE</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>ITSM / Agile Methodologies</b></summary>
+   <ul>
+      <li>Jira</li>
+      <li>Confluence</li>
+      <li>ServiceNow</li>
+      <li>Scrum</li>
+   </ul>
+   </details>
 </div>
