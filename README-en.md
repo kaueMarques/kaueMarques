@@ -56,19 +56,19 @@
 <div class="experiencia" align="left" style="margin-left: 65%">
    <h4><b>Professional Experience</b></h4>
    <details>
-      <summary><b>Santander - Software Engineer</b></summary>
-      <ul>
-         <li>Development and modernization of high-performance payment systems.</li>
-         <li>Worked on modernizing critical payment architectures to ensure transaction scalability and resilience.</li>
-      </ul>
-   </details>
-   <details>
       <summary><b>Itaú Unibanco - Software Engineer</b></summary>
       <ul>
          <li>Collaborated with multinationals in developing tools for the implementation of the PIX solution.</li>
          <li>Utilized Java, Python, and AWS architectures in compliance with Central Bank regulations.</li>
          <li>Developed proprietary tools within the MCP (Model Context Protocol) system on the bank's AI platform.</li>
          <li>Built systems utilizing automatic analysis and systemic AI integration, including the use of customized language models (CLMs).</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Santander - Software Engineer</b></summary>
+      <ul>
+         <li>Development and modernization of high-performance payment systems.</li>
+         <li>Worked on modernizing critical payment architectures using the BIAN reference model to ensure transaction scalability and resilience.</li>
       </ul>
    </details>
    <details>
@@ -82,7 +82,7 @@
       </ul>
    </details>
    <details>
-      <summary><b>Globo - Java Software Engineer</b></summary>
+      <summary><b>TV Globo - Java Software Engineer</b></summary>
       <ul>
          <li>Identified and resolved flaws in legacy systems and databases.</li>
          <li>Migrated legacy systems to the cloud (Google Cloud).</li>
