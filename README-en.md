@@ -56,7 +56,7 @@
 <div class="experiencia" align="left" style="margin-left: 65%">
    <h4><b>Professional Experience</b></h4>
    <details>
-      <summary><b>Santander - Software Engineer</b></summary>
+      <summary><b>Banco Santander - Software Engineer</b></summary>
       <ul>
          <li>Worked on a global project for the Spanish bank focused on the development and modernization of high-performance payment systems.</li>
          <li>Modernization of critical payment architectures using the BIAN reference model to ensure transaction scalability and resilience.</li>
@@ -186,11 +186,12 @@
    </ul>
    </details>
    <details>
-   <summary><b>DevOps & Messaging</b></summary>
+   <summary><b>DevOps, Infrastructure as Code (IaC) & Messaging</b></summary>
    <ul>
       <li>Apache Kafka</li>
       <li>Docker</li>
       <li>Kubernetes</li>
+      <li>Terraform</li>
       <li>Rancher</li>
       <li>Shell Scripting</li>
       <li>GitHub Actions / Jenkins</li>
@@ -202,7 +203,7 @@
       <li>WebLogic</li>
       <li>Payara Server</li>
       <li>GitLab</li>
-      <li>Systemic Artificial Intelligence Integration (LLMs, CLMs, IBM WatsonX AI)</li>
+      <li>Systemic Artificial Intelligence Integration (LLMs, CLMs, IBM WatsonX AI, StackSpot AI, Google Gemini)</li>
    </ul>
    </details>
    <details>
