@@ -56,19 +56,19 @@
 <div class="experiencia" align="left" style="margin-left: 65%">
    <h4><b>Experiência Profissional</b></h4>
    <details>
+      <summary><b>Santander - Software Engineer</b></summary>
+      <ul>
+         <li>Atuação em um projeto global para o banco espanhol focado no desenvolvimento e modernização de sistemas de pagamento de alta performance.</li>
+         <li>Modernização de arquiteturas críticas de pagamentos utilizando a referência BIAN para garantir escalabilidade e resiliência das transações.</li>
+      </ul>
+   </details>
+   <details>
       <summary><b>Itaú Unibanco - Software Engineer</b></summary>
       <ul>
          <li>Colaboração com multinacionais no desenvolvimento de ferramentas para a implementação da solução PIX.</li>
          <li>Utilização de Java, Python e arquiteturas AWS em conformidade com as normas do Banco Central.</li>
          <li>Desenvolvimento de ferramentas proprietárias dentro do sistema MCP (Model Context Protocol) na plataforma de IA do banco.</li>
          <li>Construção de sistemas que utilizam análises automáticas e integração sistêmica de IA, incluindo o uso de modelos de linguagem personalizados (CLMs).</li>
-      </ul>
-   </details>
-   <details>
-      <summary><b>Santander - Software Engineer</b></summary>
-      <ul>
-         <li>Desenvolvimento e modernização de sistemas de pagamento de alta performance.</li>
-         <li>Atuação na modernização de arquiteturas críticas de pagamentos utilizando a referência BIAN para garantir escalabilidade e resiliência das transações.</li>
       </ul>
    </details>
    <details>
@@ -82,7 +82,7 @@
       </ul>
    </details>
    <details>
-      <summary><b>TV Globo - Java Software Engineer</b></summary>
+      <summary><b>Globo - Java Software Engineer</b></summary>
       <ul>
          <li>Identificação e resolução de falhas em sistemas legados e bancos de dados.</li>
          <li>Migração de sistemas legados para a nuvem (Google Cloud).</li>
