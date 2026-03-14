@@ -65,6 +65,13 @@
       </ul>
    </details>
    <details>
+      <summary><b>Santander - Software Engineer</b></summary>
+      <ul>
+         <li>Desenvolvimento e modernização de sistemas de pagamento de alta performance.</li>
+         <li>Atuação na modernização de arquiteturas críticas de pagamentos utilizando a referência BIAN para garantir escalabilidade e resiliência das transações.</li>
+      </ul>
+   </details>
+   <details>
       <summary><b>IBM - Java Software Developer</b></summary>
       <ul>
          <li>Atuação em projeto para banco multinacional no desenvolvimento de sistemas de alto desempenho para processamento de PIX, boletos e cartões de crédito.</li>
@@ -75,7 +82,7 @@
       </ul>
    </details>
    <details>
-      <summary><b>Globo - Java Software Engineer</b></summary>
+      <summary><b>TV Globo - Java Software Engineer</b></summary>
       <ul>
          <li>Identificação e resolução de falhas em sistemas legados e bancos de dados.</li>
          <li>Migração de sistemas legados para a nuvem (Google Cloud).</li>
@@ -163,7 +170,17 @@
    <details>
    <summary><b>Cloud</b></summary>
    <ul>
-      <li>AWS (SQS, SNS, ECS)</li>
+      <li><b>AWS (Foco em Foundation e Developer):</b>
+         <ul>
+            <li><b>Computação:</b> EC2, Lambda, ECS, Fargate, Elastic Beanstalk</li>
+            <li><b>Armazenamento:</b> S3, EBS, EFS</li>
+            <li><b>Bancos de Dados:</b> DynamoDB, RDS, ElastiCache</li>
+            <li><b>Redes e Entrega de Conteúdo:</b> VPC, Route 53, CloudFront, API Gateway</li>
+            <li><b>Segurança e Identidade:</b> IAM, Cognito, KMS</li>
+            <li><b>Integração e Mensageria:</b> SQS, SNS, EventBridge, Step Functions</li>
+            <li><b>Monitoramento e Ferramentas de Desenvolvedor:</b> CloudWatch, CloudTrail, X-Ray, CodeBuild, CodeDeploy, CodePipeline</li>
+         </ul>
+      </li>
       <li>Google Cloud</li>
       <li>Oracle Cloud (OCI)</li>
    </ul>
