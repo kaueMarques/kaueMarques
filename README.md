@@ -29,13 +29,69 @@
       Olá! Meu nome é Kauê. Sou <b>Engenheiro de Software</b> no Itaú Unibanco.
      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
-      Especialista no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang, Python e AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
+      Atuo no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang e Python</b>, com forte foco em arquiteturas em <b>Nuvem AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
    </span>
 </div>
 <div align="left" style="margin-left: 65%">
-   <h4><b>Linguagens de Programação que destaco, pois essas são minhas bases e nelas posso construir tudo</b></h4>
+   <h4><b>Principais Linguagens de Programação</b></h4>
    <img height="35" src="./assets/java.png" alt="java">
+   <img height="35" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go">
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
+</div>
+
+<br><br>
+
+<div class="competencias" align="left" style="margin-left: 65%">
+   <h4><b>Principais Competências</b></h4>
+   <ul>
+      <li><b>Linguagens e Frameworks:</b> Java (Spring Boot), Go Lang, Python (Flask).</li>
+      <li><b>Nuvem e Infraestrutura:</b> AWS (SQS, SNS, DynamoDB, ECS), Oracle Cloud (OCI), Google Cloud, Kubernetes, Docker.</li>
+      <li><b>CI/CD e Ferramentas:</b> Jenkins, GitHub Actions, Jira, Shell Script.</li>
+      <li><b>Arquitetura:</b> Princípios SOLID, Arquitetura Hexagonal e Data Mesh.</li>
+   </ul>
+</div>
+
+<br>
+
+<div class="experiencia" align="left" style="margin-left: 65%">
+   <h4><b>Experiência Profissional</b></h4>
+   <details>
+      <summary><b>Itaú Unibanco - Software Engineer</b></summary>
+      <ul>
+         <li>Colaboração com multinacionais no desenvolvimento de ferramentas para a implementação da solução PIX.</li>
+         <li>Utilização de Java, Python e arquiteturas AWS em conformidade com as normas do Banco Central.</li>
+         <li>Desenvolvimento de ferramentas proprietárias dentro do sistema MCP (Model Context Protocol) na plataforma de IA do banco.</li>
+         <li>Construção de sistemas que utilizam análises automáticas e integração sistêmica de IA, incluindo o uso de modelos de linguagem personalizados (CLMs).</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>IBM - Java Software Developer</b></summary>
+      <ul>
+         <li>Atuação em projeto para banco multinacional no desenvolvimento de sistemas de alto desempenho para processamento de PIX, boletos e cartões de crédito.</li>
+         <li>Participação em migrações para a nuvem, visando escalabilidade, segurança e resiliência.</li>
+         <li>Mentoria técnica e realização de onboardings técnicos focados nas melhores práticas da indústria.</li>
+         <li>Aplicação de práticas de arquitetura como SOLID e Arquitetura Hexagonal.</li>
+         <li>Integração de soluções de IA e dados utilizando IBM WatsonX AI e IBM Infosphere Data Architecture.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Globo - Java Software Engineer</b></summary>
+      <ul>
+         <li>Identificação e resolução de falhas em sistemas legados e bancos de dados.</li>
+         <li>Migração de sistemas legados para a nuvem (Google Cloud).</li>
+         <li>Automação de processos manuais e rotinas de usuários para otimizar operações e transferências de arquivos.</li>
+         <li>Utilização de Java, WebLogic, SpringBoot e OracleDB para gestão robusta de dados e aplicações.</li>
+      </ul>
+   </details>
+   <details>
+      <summary><b>Marques Kauê Classic Software - Software Engineer</b></summary>
+      <ul>
+         <li>Liderança e gestão de projetos como consultor de software para diversos clientes.</li>
+         <li>Desenvolvimento e manutenção de infraestrutura crítica em empresa de telecomunicações (ISP).</li>
+         <li>Implementação de melhorias e otimizações em soluções de software ERP.</li>
+         <li>Projeto de sistemas de armazenamento robustos e sistemas de gestão especializados.</li>
+      </ul>
+   </details>
 </div>
 
 <br><br>
@@ -91,68 +147,64 @@
 
 
 <div>
-<span><b>Algumas das tecnologias que já manipulei profissionalmente são:</b></span></span>
+<span><b>Tecnologias que domino:</b></span>
 <div>
 <br>
-<div align="left">   
+<div align="left">
    <details>
    <summary><b>Bancos de Dados</b></summary>
-   
-   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-   ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-</details>
-<details>
+   <ul>
+      <li>MariaDB</li>
+      <li>Microsoft SQL Server</li>
+      <li>Oracle Database</li>
+      <li>DynamoDB (NoSQL)</li>
+   </ul>
+   </details>
+   <details>
    <summary><b>Cloud</b></summary>
-   
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
-</details>
-<details>
-   <summary><b>DevOps</b></summary>
-   
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-008000?style=for-the-badge)
-![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4B0082?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-
-</details>
-<details>
-   <summary><b>Infra</b></summary>
-   
-  ![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Payara Server](https://img.shields.io/badge/Payara_Server-333F48?style=for-the-badge&logo=payara&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-</details>
-<details>
+   <ul>
+      <li>AWS (SQS, SNS, ECS)</li>
+      <li>Google Cloud</li>
+      <li>Oracle Cloud (OCI)</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>DevOps & Mensageria</b></summary>
+   <ul>
+      <li>Apache Kafka</li>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+      <li>Rancher</li>
+      <li>Shell Scripting</li>
+      <li>GitHub Actions / Jenkins</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>Infraestrutura & IA</b></summary>
+   <ul>
+      <li>WebLogic</li>
+      <li>Payara Server</li>
+      <li>GitLab</li>
+      <li>Integração de Inteligência Artificial Sistêmica (LLMs, CLMs, IBM WatsonX AI)</li>
+   </ul>
+   </details>
+   <details>
    <summary><b>Frameworks</b></summary>
-   
-   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-   ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
-   [![Java EE](https://img.shields.io/badge/Java_EE-8EB814.svg?style=for-the-badge&logo=coffeescript&logoColor=white&color=8A2BE2)](https://www.oracle.com/java/ee/)
-   
-</details>
-<details>
-   <summary><b>ITSM / Scrum</b></summary>
-   
-   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-   ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-   ![ServiceNow](https://img.shields.io/badge/ServiceNow-00BEE8?style=for-the-badge&logo=servicenow&logoColor=white)
-
-   
-</details>
-
+   <ul>
+      <li>Spring Boot</li>
+      <li>Flask</li>
+      <li>Jakarta EE / Java EE</li>
+   </ul>
+   </details>
+   <details>
+   <summary><b>ITSM / Metodologias Ágeis</b></summary>
+   <ul>
+      <li>Jira</li>
+      <li>Confluence</li>
+      <li>ServiceNow</li>
+      <li>Scrum</li>
+   </ul>
+   </details>
 </div>
 
 
