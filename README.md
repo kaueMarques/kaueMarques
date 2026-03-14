@@ -48,6 +48,7 @@
       <li><b>Nuvem e Infraestrutura:</b> AWS (SQS, SNS, DynamoDB, ECS), Oracle Cloud (OCI), Google Cloud, Kubernetes, Docker.</li>
       <li><b>CI/CD e Ferramentas:</b> Jenkins, GitHub Actions, Jira, Shell Script.</li>
       <li><b>Arquitetura:</b> Princípios SOLID, Arquitetura Hexagonal e Data Mesh.</li>
+      <li><b>Idiomas:</b> Inglês Fluente (experiência prática conduzindo e lidando com demandas de comunicação em projetos globais).</li>
    </ul>
 </div>
 
