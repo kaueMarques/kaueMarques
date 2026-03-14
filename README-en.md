@@ -1,11 +1,11 @@
-<h1 align="center"><img src="./hi.gif" height="30" width="30px"> Olá, eu sou Kauê Marques!</h1>
+<h1 align="center"><img src="./hi.gif" height="30" width="30px"> Hello, I am Kauê Marques!</h1>
 <p align="center">
    <i>“There is a reason why all things are as they are.”</i><br/>
    <b>Bram Stoker, Dracula</b>
    <br/>
    <br/>
-   <a href="./README-en.md">
-      <img src="https://img.shields.io/badge/Read_in_English-blue?style=for-the-badge&logo=united-kingdom" alt="Read in English" />
+   <a href="./README.md">
+      <img src="https://img.shields.io/badge/Leia_em_Portugu%C3%AAs-blue?style=for-the-badge&logo=brazil" alt="Leia em Português" />
    </a>
 </p>
 
@@ -26,14 +26,14 @@
 <div align="left" style="margin-left: 65%" >
    <span>
       <img width="20" src="./assets/dev_emoji.png"/>
-      Olá! Meu nome é Kauê. Sou <b>Engenheiro de Software</b> no Itaú Unibanco.
+      Hello! My name is Kauê. I am a <b>Software Engineer</b> at Itaú Unibanco.
      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
-      Especialista no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang, Python e AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
+      Specialist in developing scalable solutions in financial and media systems using <b>Java (Spring), Go Lang, Python, and AWS</b>. I have expertise in messaging, NoSQL databases, Kubernetes, and the integration of systemic Artificial Intelligence.
    </span>
 </div>
 <div align="left" style="margin-left: 65%">
-   <h4><b>Linguagens de Programação que destaco, pois essas são minhas bases e nelas posso construir tudo</b></h4>
+   <h4><b>Programming Languages I highlight, as they are my foundations and upon them I can build anything</b></h4>
    <img height="35" src="./assets/java.png" alt="java">
    <img height="35" src="./assets/free-bash-shell-script-7855733-6374566.png" alt="bash">
 </div>
@@ -41,49 +41,49 @@
 <br><br>
 
 <div class="publicação">
-   <h4><b>Publicações em congressos</b></h4>
+   <h4><b>Conference Publications</b></h4>
    <table>
       <tr align="center">
-         <th>Congresso</th>
-         <th>Titulo do trabalho</th>
-         <th>aplicação pratica</th>
+         <th>Conference</th>
+         <th>Paper Title</th>
+         <th>Practical Application</th>
       </tr>
       <tr>
-         <td>CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP</td>
-         <td><a href="https://ocs.ifsp.edu.br/conict/xivconict/paper/view/9464" target="_blank">OTIMIZAÇÃO DA MANUTENÇÃO EM SISTEMAS LEGADOS: CASO DE ESTUDO DO ORACLE WEBLOGIC 11G</a>
+         <td>IFSP CONGRESS OF INNOVATION, SCIENCE, AND TECHNOLOGY</td>
+         <td><a href="https://ocs.ifsp.edu.br/conict/xivconict/paper/view/9464" target="_blank">MAINTENANCE OPTIMIZATION IN LEGACY SYSTEMS: ORACLE WEBLOGIC 11G CASE STUDY</a>
 </td>
-         <td>Rapida identificação de erros em alguns servidores descentalizados de grande porte</td>
+         <td>Quick error identification in large-scale decentralized servers</td>
       </tr>
    </table>
 </div>
 
 <div class="certifications">
-   <h4><b>As certificações que obtive:</b></h4>
+   <h4><b>My Certifications:</b></h4>
    <table>
       <tr align="center">
          <th>Badge</th>
-         <th>Nome da Certificação</th>
-         <th>Descrição Resumida</th>
+         <th>Certification Name</th>
+         <th>Brief Description</th>
       </tr>
       <tr>
          <td align="center"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
          <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
-         <td>Discute os Serviços Core OCI e Serviços Nativos da Nuvem</td>
+         <td>Discusses Core OCI Services and Cloud Native Services</td>
       </tr>
       <tr>
          <td align="center"><a href="https://www.credly.com/org/itau/badge/practitioner-d-a-foundation.1" target="_blank"><img width="150" src="https://images.credly.com/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png"/></a></td>
          <td>Practitioner - D&amp;A Foundation</td>
-         <td>Conhecimentos básicos sobre disciplinas relacionadas a dados, desde modelagem até análises avançadas.</td>
+         <td>Basic knowledge of data-related disciplines, from modeling to advanced analytics.</td>
       </tr>
       <tr>
          <td align="center"><a href="https://www.credly.com/org/itau/badge/practitioner-generative-ai.1" target="_blank"><img width="150" src="https://images.credly.com/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png"/></a></td>
          <td>Practitioner - Generative AI</td>
-         <td>Conceitos fundamentais sobre Inteligência Artificial Generativa, no aspecto teórico e prático.</td>
+         <td>Fundamental concepts of Generative Artificial Intelligence, from theoretical and practical perspectives.</td>
       </tr>
       <tr>
          <td align="center"><a href="https://www.credly.com/org/itau/badge/gestao-de-riscos-trained" target="_blank"><img width="150" src="https://images.credly.com/images/92c6274a-eb95-4d35-88da-0e29e8e82aa1/image.png"/></a></td>
-         <td>Gestão de Riscos - Trained</td>
-         <td>Conceitos e comportamentos que inspiram positivamente no Gerenciamento dos Riscos.</td>
+         <td>Risk Management - Trained</td>
+         <td>Concepts and behaviors that positively inspire Risk Management.</td>
       </tr>
    </table>
    <br>
@@ -91,13 +91,13 @@
 
 
 <div>
-<span><b>Algumas das tecnologias que já manipulei profissionalmente são:</b></span></span>
+<span><b>Some of the technologies I have professionally managed include:</b></span></span>
 <div>
 <br>
-<div align="left">   
+<div align="left">
    <details>
-   <summary><b>Bancos de Dados</b></summary>
-   
+   <summary><b>Databases</b></summary>
+
    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
    ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -106,7 +106,7 @@
 </details>
 <details>
    <summary><b>Cloud</b></summary>
-   
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -115,7 +115,7 @@
 </details>
 <details>
    <summary><b>DevOps</b></summary>
-   
+
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-008000?style=for-the-badge)
 ![Batch Scripting](https://img.shields.io/badge/Batch_Scripting-4B0082?style=for-the-badge)
@@ -126,8 +126,8 @@
 
 </details>
 <details>
-   <summary><b>Infra</b></summary>
-   
+   <summary><b>Infrastructure</b></summary>
+
   ![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![Payara Server](https://img.shields.io/badge/Payara_Server-333F48?style=for-the-badge&logo=payara&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -136,24 +136,21 @@
 </details>
 <details>
    <summary><b>Frameworks</b></summary>
-   
+
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=jakartaee&logoColor=white)
    [![Java EE](https://img.shields.io/badge/Java_EE-8EB814.svg?style=for-the-badge&logo=coffeescript&logoColor=white&color=8A2BE2)](https://www.oracle.com/java/ee/)
-   
+
 </details>
 <details>
    <summary><b>ITSM / Scrum</b></summary>
-   
+
    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
    ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
    ![ServiceNow](https://img.shields.io/badge/ServiceNow-00BEE8?style=for-the-badge&logo=servicenow&logoColor=white)
 
-   
+
 </details>
 
 </div>
-
-
-
