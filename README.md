@@ -22,12 +22,11 @@
    <img align="left" width="320px" alt="GIF" src="./assets/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 </div>
 
-
 <div align="left" style="margin-left: 65%" >
    <span>
       <img width="20" src="./assets/dev_emoji.png"/>
       Olá! Meu nome é Kauê. Sou <b>Engenheiro de Software</b> no Itaú Unibanco.
-     <br>
+      <br>
       <img width="20" src="./assets/scroll_1f4dc.png"/>
       Atuo no desenvolvimento de soluções escaláveis em sistemas financeiros e de mídia utilizando <b>Java (Spring), Go Lang e Python</b>, com forte foco em arquiteturas em <b>Nuvem AWS</b>. Possuo expertise em mensageria, bancos de dados NoSQL, Kubernetes e integração de Inteligência Artificial sistêmica.
    </span>
@@ -128,18 +127,15 @@
    </table>
 </div>
 
-<div class="certifications">
-   <!-- certs_start -->
+<!-- certs_start -->
+<!-- A tabela sera inserida aqui automaticamente pela Action -->
 <!-- certs_end -->
 
-<p align="center">
+<div align="center">
   <!-- status_start -->
   Status da ultima execucao: Aguardando primeira rodada...
   <!-- status_end -->
-</p>
-   <br>
 </div>
-
 
 <div>
 <span><b>Tecnologias que domino:</b></span>
@@ -213,6 +209,3 @@
    </ul>
    </details>
 </div>
-
-
-

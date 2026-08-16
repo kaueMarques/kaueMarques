@@ -32,10 +32,12 @@ jobs:
                   data = json.loads(response.read().decode())
                   badges = data.get('data', [])
                   rows = ''
+                  print(f'Encontradas {len(badges)} certificacoes:')
                   for b in badges:
+                      name = b.get('badge_template', {}).get('name', '')
+                      print(f'- {name}')
                       url_b = f'https://www.credly.com/badge/{b.get(\"id\")}'
                       img = b.get('image_url', '')
-                      name = b.get('badge_template', {}).get('name', '')
                       desc = b.get('badge_template', {}).get('description', '').replace('\n', ' ').strip()
                       rows += f'      <tr><td align=\"center\"><a href=\"{url_b}\" target=\"_blank\"><img width=\"150\" src=\"{img}\"/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
               
