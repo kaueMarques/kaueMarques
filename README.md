@@ -129,7 +129,28 @@
 
 
 <!-- certs_start -->
-<!-- A tabela sera inserida aqui automaticamente pela Action -->
+<div class="certifications">
+   <h4><b>As certificacoes que obtive:</b></h4>
+   <table>
+      <tr align="center">
+         <th>Badge</th>
+         <th>Nome da Certificacao</th>
+         <th>Descricao Resumida</th>
+      </tr>
+      <tr>
+         <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4" target="_blank"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/badge_icons/oci_foundations_assoc.png"/></a></td>
+         <td>Oracle Cloud Infrastructure Foundations 2021 Associate</td>
+         <td>Certificacao baseada em implementacao de ecossistema na nuvem.</td>
+      </tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/b2460e2c-f5cc-4bf8-b626-0d42a860df94/blob"/></a></td><td>Camada Zero Foundation Trained - HubTech</td><td>Este badge certifica a capacitação técnica nos fundamentos do Camada Zero, validando o entendimento sobre arquitetura celular, princípios de engenharia e operação, além de conceitos introdutórios de multi-cloud, alinhados às práticas e desafios do programa.</td></tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/e01d6027-a5fe-4ced-ad5c-1f3e2e83003d/blob"/></a></td><td>M365 Copilot - Expert</td><td>É capaz de explorar o potencial dos agentes prontos para uso da Microsoft como Analista, Pesquisador, Prompt Coach, entre outros. Desenvolve agentes funcionais no Agent Builder (Copilot Studio Lite) para resolver problemas no contexto empresarial, promovendo soluções de produtividade. Aplica o Copilot para atender necessidades reais e conhece funcionalidades adicionais da ferramenta.</td></tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/4026d6c5-465f-4d1e-9188-2d2bbbdf22d8/blob"/></a></td><td>M365 Copilot - Trained</td><td>É capaz de iniciar atividades com o M365 Copilot, compreendendo suas principais funcionalidades e como utilizá-las de forma eficaz. Entende os conceitos introdutórios e é capaz de criar prompts eficientes e para se comunicar de forma eficaz com a IA generativa do M365 Copilot. Sabe aplicar as funcionalidades específicas do M365 Copilot em ferramentas como Teams, Outlook, Word, PowerPoint e Excel.</td></tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/92c6274a-eb95-4d35-88da-0e29e8e82aa1/image.png"/></a></td><td>Gestão de Riscos - Trained</td><td>Conhecer os conceitos e comportamentos de forma simples e direta que inspirem positivamente no Gerenciamento dos Riscos, além de promover o aculturamento que é de responsabilidade individual e coletiva. Entenda os princípios fundamentais das metodologias recomendadas institucionalmente e suas principais ferramentas.</td></tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png"/></a></td><td>Practitioner - Generative AI</td><td>A pessoa que detém este Badge adquiriu os conceitos fundamentais sobre Inteligência Artificial Generativa, tanto no aspecto teórico quanto no prático. É capaz de entender os alicerces básicos da mecânica que sustenta as principais ferramentas de Inteligência Artificial Generativa, bem como compreender os seus potenciais casos de uso no âmbito social.</td></tr>
+      <tr><td align="center"><a href="https://www.credly.com/users/kauemb" target="_blank"><img width="150" src="https://images.credly.com/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png"/></a></td><td>Practitioner - D&A Foundation</td><td>A pessoa que detém esta Badge possui conhecimentos básicos sobre disciplinas relacionadas a dados, tendo sido introduzida aos conceitos e termos correntes em áreas como: Modelagem de Dados, Engenharia de Dados e Analytics, Ciência de Dados, Engenharia de Machine Learning e Governança de Dados. Sendo, portanto, letrada em dados, tendo intuição sobre o ciclo do dado, desde sua aquisição e tratamento até análises avançadas, entrega contínua e geração de valor.</td></tr>
+   </table>
+   <br>
+</div>
 <!-- certs_end -->
 
 
@@ -208,5 +229,12 @@
 
 
 <!-- posts_start -->
-<!-- Os ultimos posts serao inseridos aqui automaticamente pela Action -->
+<div class="recent-posts">
+   <h4><b>Ultimos posts no meu blog:</b></h4>
+<ul>
+      <li><a href="https://kauemarques.github.io/posts/postid-113/" target="_blank">Backrooms: review sem spoilers</a></li>
+      <li><a href="https://kauemarques.github.io/posts/postid-110/" target="_blank">A Busca pelo Saber</a></li>
+      <li><a href="https://kauemarques.github.io/posts/postid-98/" target="_blank">Entre Engrenagens e o Divino</a></li>
+   </ul>
+</div>
 <!-- posts_end -->
