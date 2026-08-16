@@ -127,17 +127,10 @@
    </table>
 </div>
 
+
 <!-- certs_start -->
 <!-- A tabela sera inserida aqui automaticamente pela Action -->
 <!-- certs_end -->
-
-<br>
-
-<!-- posts_start -->
-<!-- Os ultimos posts serao inseridos aqui automaticamente pela Action -->
-<!-- posts_end -->
-
-<br>
 
 
 <div>
@@ -212,3 +205,8 @@
    </ul>
    </details>
 </div>
+
+
+<!-- posts_start -->
+<!-- Os ultimos posts serao inseridos aqui automaticamente pela Action -->
+<!-- posts_end -->

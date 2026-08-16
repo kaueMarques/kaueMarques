@@ -1,8 +1,8 @@
-name: Obter Atulizacao Readme
+name: Atualizar Certificacoes e Posts
 
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 1,15,16,25 * *'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.10'
 
       - name: Executar script de atualizacao
-        run: python .github/scripts/update_readme.py
+        run: python .github/scripts/update_certs.py
 
       - name: Commit e Push
         run: |
@@ -28,6 +28,6 @@ jobs:
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           if ! git diff --cached --quiet; then
-            git commit -m 'Atualizacao automatica das certificacoes'
+            git commit -m 'Atualizacao automatica das certificacoes e posts'
             git push
           fi
