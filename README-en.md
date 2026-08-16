@@ -128,37 +128,10 @@
    </table>
 </div>
 
+<!-- certs_start -->
 <div class="certifications">
-   <h4><b>My Certifications:</b></h4>
-   <table>
-      <tr align="center">
-         <th>Badge</th>
-         <th>Certification Name</th>
-         <th>Brief Description</th>
-      </tr>
-      <tr>
-         <td align="center"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/102_Oracle_Cloud_Infrastructure_Foundations_Associate.png"/></td>
-         <td>[1Z0-1085-21] Oracle Cloud Infrastructure Foundations Associate</td>
-         <td>Discusses Core OCI Services and Cloud Native Services</td>
-      </tr>
-      <tr>
-         <td align="center"><a href="https://www.credly.com/org/itau/badge/practitioner-d-a-foundation.1" target="_blank"><img width="150" src="https://images.credly.com/images/3151b077-3f06-49e8-b319-e4ef69bb19ec/image.png"/></a></td>
-         <td>Practitioner - D&amp;A Foundation</td>
-         <td>Basic knowledge of data-related disciplines, from modeling to advanced analytics.</td>
-      </tr>
-      <tr>
-         <td align="center"><a href="https://www.credly.com/org/itau/badge/practitioner-generative-ai.1" target="_blank"><img width="150" src="https://images.credly.com/images/3bb81f31-b826-4462-8758-d25d2d43083c/image.png"/></a></td>
-         <td>Practitioner - Generative AI</td>
-         <td>Fundamental concepts of Generative Artificial Intelligence, from theoretical and practical perspectives.</td>
-      </tr>
-      <tr>
-         <td align="center"><a href="https://www.credly.com/org/itau/badge/gestao-de-riscos-trained" target="_blank"><img width="150" src="https://images.credly.com/images/92c6274a-eb95-4d35-88da-0e29e8e82aa1/image.png"/></a></td>
-         <td>Risk Management - Trained</td>
-         <td>Concepts and behaviors that positively inspire Risk Management.</td>
-      </tr>
-   </table>
-   <br>
 </div>
+<!-- certs_end -->
 
 
 <div>
