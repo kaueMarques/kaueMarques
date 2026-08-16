@@ -43,6 +43,7 @@ try:
       </tr>\n"""
 
     url_credly = "https://www.credly.com/users/kauemb/badges.json"
+    url_profile = "https://www.credly.com/users/kauemb"
     req_credly = urllib.request.Request(url_credly, headers={"User-Agent": "Mozilla/5.0"})
     
     rows_certs = oracle_badge
@@ -56,7 +57,7 @@ try:
             desc = b.get("badge_template", {}).get("description", "")
             if desc:
                 desc = desc.replace("\n", " ").strip()
-            rows_certs += f'      <tr><td align="center"><a href="{url_b}" target="_blank"><img width="150" src="{img}"/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
+            rows_certs += f'      <tr><td align="center"><a href="{url_profile}" target="_blank"><img width="150" src="{img}"/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
     
     table_certs = f"""<!-- certs_start -->
 <div class="certifications">
