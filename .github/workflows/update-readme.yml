@@ -26,7 +26,6 @@ jobs:
           from datetime import datetime
 
           try:
-              # Busca dados da Credly
               url = 'https://www.credly.com/users/kauemb/badges.json'
               req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
               with urllib.request.urlopen(req) as response:
@@ -34,20 +33,18 @@ jobs:
                   badges = data.get('data', [])
                   rows = ''
                   for b in badges:
-                      url_b = f'https://www.credly.com/badge/{b.get('id')}'
+                      url_b = f'https://www.credly.com/badge/{b.get(\"id\")}'
                       img = b.get('image_url', '')
                       name = b.get('badge_template', {}).get('name', '')
                       desc = b.get('badge_template', {}).get('description', '').replace('\n', ' ').strip()
-                      rows += f'      <tr><td align=\'center\'><a href=\'{url_b}\' target=\'_blank\'><img width=\'150\' src=\'{img}\'/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
+                      rows += f'      <tr><td align=\"center\"><a href=\"{url_b}\" target=\"_blank\"><img width=\"150\" src=\"{img}\"/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
               
-              table = f'<!-- certs_start -->\n<div class=\'certifications\'><h4><b>As certificacoes que obtive:</b></h4><table><tr align=\'center\'><th>Badge</th><th>Nome da Certificacao</th><th>Descricao Resumida</th></tr>\n{rows}</table></div>\n<!-- certs_end -->'
+              table = f'<!-- certs_start -->\n<div class=\"certifications\">\n   <h4><b>As certificacoes que obtive:</b></h4>\n   <table>\n      <tr align=\"center\">\n         <th>Badge</th>\n         <th>Nome da Certificacao</th>\n         <th>Descricao Resumida</th>\n      </tr>\n{rows}   </table>\n   <br>\n</div>\n<!-- certs_end -->'
               
-              # Prepara status
               status = 'Sucesso'
               date_str = datetime.now().strftime('%d/%m/%Y as %H:%M')
               status_msg = f'<!-- status_start -->Status da ultima execucao: {status} em {date_str}<!-- status_end -->'
 
-              # Le e atualiza README
               with open('README.md', 'r', encoding='utf-8') as f:
                   content = f.read()
               
