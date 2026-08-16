@@ -2,12 +2,44 @@ import urllib.request
 import json
 import re
 import sys
+from html.parser import HTMLParser
+
+class BlogHTMLParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.posts = []
+        self.in_cactus_link = False
+        self.current_url = ""
+        self.current_title = ""
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'a':
+            attr_dict = dict(attrs)
+            href = attr_dict.get('href', '')
+            # Identifica links de posts do blog
+            if '/posts/' in href and href != '/posts/':
+                self.in_cactus_link = True
+                self.current_url = href if href.startswith('http') else 'https://kauemarques.github.io' + href
+
+    def handle_data(self, data):
+        if self.in_cactus_link:
+            self.current_title += data
+
+    def handle_endtag(self, tag):
+        if tag == 'a' and self.in_cactus_link:
+            title = self.current_title.strip()
+            if self.current_url and title:
+                # Evita duplicados e adiciona a lista
+                if not any(p['url'] == self.current_url for p in self.posts):
+                    self.posts.append({'url': self.current_url, 'title': title})
+            self.in_cactus_link = False
+            self.current_title = ""
 
 try:
     oracle_badge = """      <tr>
          <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4" target="_blank"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/badge_icons/oci_foundations_assoc.png"/></a></td>
          <td>Oracle Cloud Infrastructure Foundations 2021 Associate</td>
-         <td>Certificacao baseada em implementacao de infraestrutura de ecossistema na nuvem.</td>
+         <td>Certificacao baseada em implementacao de ecossistema na nuvem.</td>
       </tr>\n"""
 
     url_credly = "https://www.credly.com/users/kauemb/badges.json"
@@ -40,31 +72,27 @@ try:
 </div>
 <!-- certs_end -->"""
 
-    # Busca os arquivos na pasta de posts do repositorio do blog via API do GitHub
-    url_api = "https://api.github.com/repos/kaueMarques/kauemarques.github.io/contents/src/content/post"
-    req_api = urllib.request.Request(url_api, headers={"User-Agent": "Mozilla/5.0"})
+    # Le a pagina de posts do blog
+    url_posts = "https://kauemarques.github.io/posts/"
+    req_posts = urllib.request.Request(url_posts, headers={"User-Agent": "Mozilla/5.0"})
     
     posts_html = "<ul>\n"
     try:
-        with urllib.request.urlopen(req_api) as response:
-            files_data = json.loads(response.read().decode())
+        with urllib.request.urlopen(req_posts) as response:
+            html_content = response.read().decode('utf-8')
+            parser = BlogHTMLParser()
+            parser.feed(html_content)
             
-            post_ids = []
-            for file_item in files_data:
-                filename = file_item.get("name", "")
-                # Procura por padroes como postid-113 ou similar no nome do arquivo ou diretorio
-                match = re.search(r'(\d+)', filename)
-                if match:
-                    post_ids.append(int(match.group(1)))
+            # Pega os 3 primeiros posts listados na pagina
+            top_posts = parser.posts[:3]
             
-            # Ordena do maior para o menor e pega os 3 primeiros
-            post_ids = sorted(list(set(post_ids)), reverse=True)[:3]
-            
-            for pid in post_ids:
-                post_url = f"https://kauemarques.github.io/posts/postid-{pid}/"
-                posts_html += f'      <li><a href="{post_url}" target="_blank">Post ID {pid}</a></li>\n'
+            if top_posts:
+                for post in top_posts:
+                    posts_html += f'      <li><a href="{post["url"]}" target="_blank">{post["title"]}</a></li>\n'
+            else:
+                posts_html += '      <li>Nenhum post encontrado no momento.</li>\n'
     except Exception as e:
-        posts_html += f'      <li>Nao foi possivel carregar os posts no momento.</li>\n'
+        posts_html += '      <li>Nao foi possivel carregar os posts no momento.</li>\n'
     
     posts_html += "   </ul>"
 
