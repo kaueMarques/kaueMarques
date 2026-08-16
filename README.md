@@ -108,7 +108,7 @@
    </details>
 </div>
 
-<br><br>
+<br>
 
 <div class="publicacao">
    <h4><b>Publicacoes em congressos</b></h4>
