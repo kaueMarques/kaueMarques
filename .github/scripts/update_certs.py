@@ -2,10 +2,13 @@ import urllib.request
 import json
 import re
 import sys
+from datetime import datetime
 
+# URL e Headers
 url = "https://www.credly.com/users/kauemb/badges.json"
 req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 
+# Busca badges
 rows_html = ""
 try:
     with urllib.request.urlopen(req) as response:
@@ -29,9 +32,11 @@ except Exception as e:
     print(f"Erro ao buscar badges: {e}")
     sys.exit(1)
 
+# Le arquivo atual
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
+# Atualiza tabela
 new_table = f"""<!-- certs_start -->
 <div class="certifications">
    <h4><b>As certificacoes que obtive:</b></h4>
@@ -46,7 +51,14 @@ new_table = f"""<!-- certs_start -->
 </div>
 <!-- certs_end -->"""
 
-new_content = re.sub(r"<!-- certs_start -->.*?<!-- certs_end -->", new_table, content, flags=re.DOTALL)
+# Atualiza data de execucao
+data_atual = datetime.now().strftime("%d/%m/%Y as %H:%M")
+new_date_info = f"<!-- last_update_start -->\nUltima atualizacao: {data_atual}\n<!-- last_update_end -->"
 
+# Aplica substituicoes
+content = re.sub(r"<!-- certs_start -->.*?<!-- certs_end -->", new_table, content, flags=re.DOTALL)
+content = re.sub(r"<!-- last_update_start -->.*?<!-- last_update_end -->", new_date_info, content, flags=re.DOTALL)
+
+# Salva arquivo
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(new_content)
+    f.write(content)
