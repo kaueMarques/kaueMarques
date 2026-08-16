@@ -2,42 +2,31 @@ import urllib.request
 import json
 import re
 import sys
-from datetime import datetime
 
-# URL e Headers
-url = "https://www.credly.com/users/kauemb/badges.json"
-req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-
-# Busca badges
-rows_html = ""
 try:
+    oracle_badge = """      <tr>
+         <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2D2C0108FD8BBAF39FD4E4E3E3F336B015C9653C255A1BE722FD22105F793C4" target="_blank"><img width="150" src="https://brm-workforce.oracle.com/pdf/certview/images/badge_icons/oci_foundations_assoc.png"/></a></td>
+         <td>Oracle Cloud Infrastructure Foundations 2021 Associate</td>
+         <td>Certificacao baseada em implementacao de infraestrutura de ecossistema na nuvem.</td>
+      </tr>\n"""
+
+    url = "https://www.credly.com/users/kauemb/badges.json"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    
+    rows = oracle_badge
     with urllib.request.urlopen(req) as response:
         data = json.loads(response.read().decode())
         badges = data.get("data", [])
-        
-        for badge in badges:
-            badge_id = badge.get("id")
-            badge_url = f"https://www.credly.com/badge/{badge_id}"
-            image_url = badge.get("image_url", "")
-            title = badge.get("badge_template", {}).get("name", "")
-            description = badge.get("badge_template", {}).get("description", "")
-            description_clean = description.replace("\n", " ").strip() if description else ""
-
-            rows_html += f"""      <tr>
-         <td align="center"><a href="{badge_url}" target="_blank"><img width="150" src="{image_url}"/></a></td>
-         <td>{title}</td>
-         <td>{description_clean}</td>
-      </tr>\n"""
-except Exception as e:
-    print(f"Erro ao buscar badges: {e}")
-    sys.exit(1)
-
-# Le arquivo atual
-with open("README.md", "r", encoding="utf-8") as f:
-    content = f.read()
-
-# Atualiza tabela
-new_table = f"""<!-- certs_start -->
+        for b in badges:
+            url_b = "https://www.credly.com/badge/" + b.get("id", "")
+            img = b.get("image_url", "")
+            name = b.get("badge_template", {}).get("name", "")
+            desc = b.get("badge_template", {}).get("description", "")
+            if desc:
+                desc = desc.replace("\n", " ").strip()
+            rows += f'      <tr><td align="center"><a href="{url_b}" target="_blank"><img width="150" src="{img}"/></a></td><td>{name}</td><td>{desc}</td></tr>\n'
+    
+    table = f"""<!-- certs_start -->
 <div class="certifications">
    <h4><b>As certificacoes que obtive:</b></h4>
    <table>
@@ -46,19 +35,18 @@ new_table = f"""<!-- certs_start -->
          <th>Nome da Certificacao</th>
          <th>Descricao Resumida</th>
       </tr>
-{rows_html}   </table>
+{rows}   </table>
    <br>
 </div>
 <!-- certs_end -->"""
 
-# Atualiza data de execucao
-data_atual = datetime.now().strftime("%d/%m/%Y as %H:%M")
-new_date_info = f"<!-- last_update_start -->\nUltima atualizacao: {data_atual}\n<!-- last_update_end -->"
-
-# Aplica substituicoes
-content = re.sub(r"<!-- certs_start -->.*?<!-- certs_end -->", new_table, content, flags=re.DOTALL)
-content = re.sub(r"<!-- last_update_start -->.*?<!-- last_update_end -->", new_date_info, content, flags=re.DOTALL)
-
-# Salva arquivo
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(content)
+    with open("README.md", "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    content = re.sub(r"<!-- certs_start -->.*?<!-- certs_end -->", table, content, flags=re.DOTALL)
+    
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(content)
+except Exception as e:
+    print("Erro:", e)
+    sys.exit(1)
