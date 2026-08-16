@@ -11,28 +11,44 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout do repositorio
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.S_CRYPT_X }}
 
-      - name: Configurar Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Executar script de atualizacao
+      - name: Executar script
         run: python .github/scripts/update_certs.py
 
-      - name: Verificar mudancas
+      - name: Reportar Status
+        if: always()
         run: |
-          git status
-          git diff
+          python -c "
+          import re
+          from datetime import datetime
+          status = '${{ job.status }}'
+          data_atual = datetime.now().strftime('%d/%m/%Y as %H:%M')
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          status_msg = f'<!-- status_start -->Status da ultima execucao: {status} em {data_atual}<!-- status_end -->'
+          if '<!-- status_start -->' in content:
+              new_content = re.sub(r'<!-- status_start -->.*?<!-- status_end -->', status_msg, content, flags=re.DOTALL)
+          else:
+              new_content = content + f'\n{status_msg}\n'
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          "
 
-      - name: Commit e Push
+      - name: Push
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Atualizacao automatica das certificacoes da Credly" || echo "Sem mudancas para commit"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m 'Atualizacao automatica das certificacoes e status'
+            git push
+          fi
