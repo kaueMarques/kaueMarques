@@ -1,4 +1,4 @@
-name: Atualizar Certificacoes
+name: Obter Atulizacao Readme
 
 on:
   schedule:
