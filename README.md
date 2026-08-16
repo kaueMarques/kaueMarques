@@ -131,12 +131,6 @@
 <!-- A tabela sera inserida aqui automaticamente pela Action -->
 <!-- certs_end -->
 
-<div align="center">
-  <!-- status_start -->
-  Status da ultima execucao: Aguardando primeira rodada...
-  <!-- status_end -->
-</div>
-
 <div>
 <span><b>Tecnologias que domino:</b></span>
 <div>
